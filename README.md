@@ -12,7 +12,7 @@
 
 </div>
 
-Pytorch implementation of our method for IEEE JBHI 2021 paper: "DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers for Biomedical Image Segmentation".
+Keras implementation of our method for IEEE JBHI 2021 paper: "DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers for Biomedical Image Segmentation".
 
 Contents
 ---
